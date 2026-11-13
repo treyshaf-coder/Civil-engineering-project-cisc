@@ -553,7 +553,7 @@ set_site_information(
     author="Treyvon Shaffer",
     description="A tool for organizing basic construction projects and estimates.",
     sources="Drafter documentation and CISC108 class materials.",
-    planning=["Copy-of-CSI-Final-Project-1_Design.docx"],
+    planning=["Copy of CSI Final Project 1_Design.docx"],
     links=[]
 )
 
